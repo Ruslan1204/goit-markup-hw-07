@@ -1,0 +1,68 @@
+.link-title{
+    
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: var(--hero-text-color);
+}
+
+.footer-form-titel{
+    display: inline-block;
+    
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 1.4;
+        letter-spacing: 0.03em;
+        margin-bottom: 20px;
+    
+        color: var(--hero-text-color);
+}
+
+    .navigation-title {
+        color: var(--primary-text-color);
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        letter-spacing: 0.06em;
+    
+        margin-top: 0;
+        margin-bottom: 4px;
+        width: 322px;
+}
+
+    .container-title{
+        display: block;
+        width: 370px;
+        padding: 20px 24px;
+        border: 1px solid var(--container-bordder-color);
+        border-top: 0;
+}
+
+    .title {
+        color: var(--title-text-color);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.8;
+        letter-spacing: 0.03em;
+    
+        margin-top: 0;
+        margin-bottom: 0;
+}
+
+    .hidden{
+
+        color: var(--hero-text-color);
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 1.4;
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+    
+        margin-top: 0;
+        margin-bottom: 0;
+        visibility: hidden;
+}
